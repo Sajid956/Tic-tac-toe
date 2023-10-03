@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-# [Project Live Link] (https://sajid-tic-tac-toe.netlify.app/)
+# [Project Live Link](https://sajid-tic-tac-toe.netlify.app/)
